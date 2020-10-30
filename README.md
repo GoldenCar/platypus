@@ -14,8 +14,4 @@ Amazon app store: https://www.amazon.com/dp/B07F6TPW1T/
 
 Flutter - Google's app development framework. (https://flutter.io)
 
-## Authors
 
-Blake Bottum
-
-Caleb Jiang
